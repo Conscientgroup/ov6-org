@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /delta
+Sitemap: https://ov6.org/sitemap.xml
